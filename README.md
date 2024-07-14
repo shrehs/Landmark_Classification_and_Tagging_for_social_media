@@ -1,1 +1,1 @@
-# Landmark_Classification_and_Tagging_in_social_media
+# Landmark_Classification_and_Tagging_for_social_media
